@@ -15,9 +15,6 @@ Financial Control é uma aplicação Web para controles financeiros, um ótimo r
 
 ![Web 2](https://github.com/d0tcon/images/blob/main/desktop%202.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 ## Back end
 - JS

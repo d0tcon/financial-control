@@ -5,7 +5,7 @@
 
 https://financial-control-umber.vercel.app
 
-Financial Control é uma aplicação Web para controles financeiros, um ótimo recurso para se organizar no mês e ter o controle de seu bolso!
+Financial Control é uma aplicação Web para controle financeiro, um ótimo recurso para se organizar no mês e ter o controle de seu bolso!
 
 ## Layout mobile
 ![Mobile 1](https://github.com/d0tcon/images/blob/main/mobile%201.png) ![Mobile 2](https://github.com/d0tcon/images/blob/main/mobile%202.png)

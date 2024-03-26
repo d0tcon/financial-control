@@ -21,7 +21,7 @@ Financial Control é uma aplicação Web para controles financeiros, um ótimo r
 ## Front end
 - HTML / JS 
 - ReactJS
-## Implantação em produção
+## Hospedagem 
 - Hospedagem web: Vercel
 
 # Como executar o projeto
